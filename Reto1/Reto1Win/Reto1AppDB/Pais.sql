@@ -1,6 +1,0 @@
-﻿CREATE TABLE [dbo].[Pais]
-(
-	[Id] INT NOT NULL PRIMARY KEY, 
-    [Codigo] NVARCHAR(50) NOT NULL, 
-    [Nombre] NVARCHAR(50) NOT NULL
-)

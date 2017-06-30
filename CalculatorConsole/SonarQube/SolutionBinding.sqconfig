@@ -1,0 +1,11 @@
+{
+  "ServerUri": "http://demosonar.azurewebsites.net",
+  "Organization": null,
+  "ProjectKey": "CalculatorConsole",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AVzmHMb_V0QkNfLs2mkZ",
+      "ProfileTimestamp": "2017-06-26T22:34:25+02:00"
+    }
+  }
+}

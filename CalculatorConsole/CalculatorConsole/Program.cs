@@ -5,6 +5,8 @@ namespace ElGuerre.Demos.CalculatorConsole
 {
     public static class Program
     {
+        private static int NoUsedAttribute;
+
         public static void Main(string[] args)
         {
             var options = new ArgumentsOptions();
@@ -27,6 +29,7 @@ namespace ElGuerre.Demos.CalculatorConsole
                 }
 
                 Console.WriteLine($"Resultado: {result}");
+                // Sample of Code Smell
                 // Console.WriteLine("Resultado: {0}", result);
 
                 // Excepción: InvalidOperationException

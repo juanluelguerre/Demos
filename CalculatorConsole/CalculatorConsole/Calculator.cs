@@ -14,7 +14,7 @@ namespace ElGuerre.Demos.CalculartorConsole
         /// <returns></returns>
         public int Sum(int a, int b)
         {
-            var c = 0;
+            var c = 2;
 
             return a + b;
         }

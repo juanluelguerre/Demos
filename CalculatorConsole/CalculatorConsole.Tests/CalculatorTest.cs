@@ -27,7 +27,8 @@ namespace CalculatorConsole.Tests
         [ExpectedException(typeof(InvalidOperationException))]
         public void DivideInvalidOperationExceptionTest()
         {
-            var c = new Calculator();          
+            var c = new Calculator();
+            var result = c.Divide(1, 2);
         }
 
         [TestMethod]

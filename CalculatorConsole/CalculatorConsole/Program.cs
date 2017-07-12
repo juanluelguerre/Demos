@@ -9,7 +9,7 @@ namespace ElGuerre.Demos.CalculatorConsole
         {
             var options = new ArgumentsOptions();
             var isValid = CommandLine.Parser.Default.ParseArguments(args, options);
-          
+           
             if (isValid)
             {
                 var c = new Calculator();
@@ -28,7 +28,6 @@ namespace ElGuerre.Demos.CalculatorConsole
 
                 Console.WriteLine($"Resultado: {result}");
 
-                // Excepción: InvalidOperationException
                 Console.WriteLine( );
                 c.Divide(1, 5);
                 Console.WriteLine();

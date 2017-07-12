@@ -26,7 +26,7 @@ namespace ElGuerre.Demos.CalculatorConsole
                         break;
                 }
 
-                Console.WriteLine($"Resultado: {result}");
+                Console.WriteLine($"Resultado esperado: {result}");
 
                 Console.WriteLine();
                 c.Divide(1, 3);

@@ -41,6 +41,6 @@ DC:\dev\Demos\CalculatorConsole\CalculatorConsole\ArgumentsOptions.cs
 
  J Q ' .7 >* 1: A
   (
- ! "! "## (
+ ! "! "!! (
    0 6M
 KC:\dev\Demos\CalculatorConsole\CalculatorConsole\Properties\AssemblyInfo.cs

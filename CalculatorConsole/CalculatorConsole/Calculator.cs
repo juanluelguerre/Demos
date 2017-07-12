@@ -2,7 +2,9 @@
 
 namespace ElGuerre.Demos.CalculartorConsole
 {
-
+    /// <summary>
+    /// Calculte integer operations
+    /// </summary>
     public class Calculator
     {
 
@@ -17,6 +19,13 @@ namespace ElGuerre.Demos.CalculartorConsole
             return a + b;
         }
 
+        /// <summary>
+        /// Divides the specified a.
+        /// </summary>
+        /// <param name="a">a.</param>
+        /// <param name="b">The b.</param>
+        /// <returns></returns>
+        /// <exception cref="InvalidOperationException"></exception>
         public int Divide(int a, int b)
         {
             if (a < b)

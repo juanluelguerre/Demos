@@ -28,7 +28,7 @@ namespace CalculatorConsole.Tests
         public void DivideInvalidOperationExceptionTest()
         {
             var c = new Calculator();
-            var result = c.Divide(1, 2);
+            c.Divide(1, 2);
         }
 
         [TestMethod]

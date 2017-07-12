@@ -25,20 +25,12 @@ namespace ElGuerre.Demos.CalculatorConsole
                     default:
                         break;
                 }
-                // Console.WriteLine("Resultado: {0}", result);
-                Console.WriteLine($"Resultado: {result}");
 
-                //Console.WriteLine( );
-                //c.Divide(1, 5);
-                //Console.WriteLine();
+                Console.WriteLine($"Resultado: {result}");
 
                 Console.WriteLine();
                 c.Divide(1, 3);
-                Console.WriteLine();
-                 
-                //Console.WriteLine();
-                //c.Divide(1, 3);
-                //Console.WriteLine();
+                Console.WriteLine();            
 
                 Console.WriteLine("Pulse INTRO para finalizar...");
                 Console.ReadLine();

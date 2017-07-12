@@ -27,8 +27,6 @@ namespace ElGuerre.Demos.CalculatorConsole
                 }
 
                 Console.WriteLine($"Resultado: {result}");
-                // Sample of Code Smell
-                // Console.WriteLine("Resultado: {0}", result);
 
                 // Excepción: InvalidOperationException
                 Console.WriteLine( );

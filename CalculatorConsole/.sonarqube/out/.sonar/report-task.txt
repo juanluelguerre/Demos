@@ -2,5 +2,5 @@ projectKey=CalculatorConsole
 serverUrl=http://demosonar.azurewebsites.net
 serverVersion=6.4.0.25310
 dashboardUrl=http://demosonar.azurewebsites.net/dashboard/index/CalculatorConsole
-ceTaskId=AV0ymymsnfVS3ri4LjQO
-ceTaskUrl=http://demosonar.azurewebsites.net/api/ce/task?id=AV0ymymsnfVS3ri4LjQO
+ceTaskId=AV03U7WlnfVS3ri4LjQV
+ceTaskUrl=http://demosonar.azurewebsites.net/api/ce/task?id=AV03U7WlnfVS3ri4LjQV

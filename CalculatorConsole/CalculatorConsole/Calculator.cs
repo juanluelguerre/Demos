@@ -5,7 +5,7 @@ namespace ElGuerre.Demos.CalculartorConsole
     /// <summary>
     /// Calculte integer operations
     /// </summary>
-    public class Calculator
+    public class Calculator : ICalculator
     {
 
         /// <summary>

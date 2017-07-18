@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Calculator.cs" />
     <Compile Include="ArgumentsOptions.cs" />
+    <Compile Include="ICalculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

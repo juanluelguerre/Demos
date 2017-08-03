@@ -1,0 +1,1 @@
+C:\dev\Demos\CalculatorConsole\Net\.sonarqube\out\\CalculatorConsole_6725

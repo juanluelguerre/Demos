@@ -62,6 +62,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Analyze.cmd" />
     <None Include="App.config" />
     <None Include="CalculatorConsole-1.ruleset" />
     <None Include="packages.config" />

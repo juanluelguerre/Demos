@@ -1,0 +1,3 @@
+﻿1) Show CS5 Code
+2) Comment CS5 Class (Entry Point)
+3) Show CS6 code and execute

@@ -13,7 +13,7 @@ namespace CalculatorCoreConsole
             Value1 = value1;
             Value2 = value2;
             // Value3 = 3;
-            Value33 = 33; // Tiene prioridad frente a la asignación directa en la propiedad.
+            Value33 = 33; // En el Construncctor tiene prioridad frente a la asignación directa en la propiedad.
         }
 
         // Antes de C# 6

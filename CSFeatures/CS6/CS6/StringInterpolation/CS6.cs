@@ -13,6 +13,8 @@ namespace FeaturesCS6
                 Description = "New Features C#6"
             };
 
+
+
             // WriteLine("{0}: {1} - {2}: {3}", nameof(p.Id), p.Id, nameof(p.Title), p.Title);
 
             WriteLine($"Id: {p.Id} - Title: {p.Title}");

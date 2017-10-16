@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2FF9507E-0C1A-4E27-A0EA-728E87BEA9B6}</ProjectGuid>
+    <ProjectGuid>{5B8D9DC0-E370-4017-BA10-35CFF87E738F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FeaturesCS6</RootNamespace>
-    <AssemblyName>NameOf</AssemblyName>
+    <RootNamespace>ExpressionBodiedMembers</RootNamespace>
+    <AssemblyName>ExpressionBodiedMembers</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,7 +44,6 @@
   <ItemGroup>
     <Compile Include="CS5.cs" />
     <Compile Include="CS6.cs" />
-    <Compile Include="Project.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

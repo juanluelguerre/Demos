@@ -2,8 +2,6 @@
 
 namespace FeaturesCS6
 {
-
-
     public class ProjectCS5
     {
         public ProjectCS5()
@@ -18,6 +16,7 @@ namespace FeaturesCS6
         public string Description { get; set; }
         public string GetDetail()
         {
+
             return string.Format(
                 "This is a project with id {0}, title {1} and a description: {2}",
                 Id, Title, Description);

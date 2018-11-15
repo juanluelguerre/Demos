@@ -22,11 +22,11 @@ namespace FireworkNetCore
 
             // services.AddDistributedMemoryCache();
 
-            services.AddDistributedRedisCache(options =>
-            {
-                options.Configuration = Configuration.GetConnectionString("RedisConnection");
-                options.InstanceName = "Fireworks";
-            });
+            //services.AddDistributedRedisCache(options =>
+            //{
+            //    options.Configuration = Configuration.GetConnectionString("RedisConnection");
+            //    options.InstanceName = "Fireworks";
+            //});
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
